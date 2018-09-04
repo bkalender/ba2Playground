@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db14d17ae71c46c3b6977ac06b1c55f, type: 3}
+  m_Name: A2. Ending
+  m_EditorClassIdentifier: 
+  storyText: 'We came to an end.
+
+
+    1.Oooh fuck
+
+    2.I got this. Let me try again.'
+  nextStates:
+  - {fileID: 11400000, guid: 62a24a86567a94d3aa9a1b5cc942840c, type: 2}
+  - {fileID: 11400000, guid: 123ab23e7a8304b8688942aa65899aba, type: 2}
